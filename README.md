@@ -8,12 +8,16 @@ Este projeto está divido em 4 repositórios:
 
 Neste projeto eu uso **Django** e sua renderização tradicional de templates, e uso o **VueJS** apenas como um arquivo estático via CDN. Inclui também axios via CDN.
 
+![django-vue01.png](img/django-vue01.png)
+
 
 # [django-vuejs-02-vue-cli-static][2]
 
 Aqui eu ainda uso o **Django** com sua renderização de templates. E o **VueJS** instalado com vue-cli.
 
 Mas no final eu rodo o comando `npm run build` jogando os arquivos para a pasta `static` do Django.
+
+![django-vue02.png](img/django-vue02.png)
 
 
 # [django-vuejs-03-separated][3]
@@ -22,11 +26,14 @@ Neste projeto temos o **Django** totalmente separado do **VueJS**. Cada um rodan
 
 Inclui [vue][6], [axios][7] e [vue-routers][8].
 
+![django-vue03.png](img/django-vue03.png)
+
 
 # [django-vuejs-04-drf-vuejs][4]
 
 Projeto feito com [Django Rest Framework][9] e [VueJS][6].
 
+![django-vue04.png](img/django-vue04.png)
 
 
 ### Projetos antigos
