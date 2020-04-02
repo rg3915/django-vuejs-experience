@@ -57,6 +57,8 @@ Links:
 
 [Django Rest Framework][9]
 
+[contrib gist][13]
+
 
 [1]: https://github.com/rg3915/django-vuejs-01-vue-inner-django
 [2]: https://github.com/rg3915/django-vuejs-02-vue-cli-static
@@ -70,3 +72,4 @@ Links:
 [10]: https://github.com/rg3915/django-vue-archived
 [11]: https://github.com/rg3915/crm-django-vuejs-archived
 [12]: https://github.com/rg3915/django-vuex-coreui-free-vue-admin-template
+[13]: https://gist.github.com/rg3915/6fad3d19f2b511ec5da40cef5a168ca5
