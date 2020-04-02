@@ -57,7 +57,7 @@ Links:
 
 [Django Rest Framework][9]
 
-[contrib gist][13]
+[nvm gist][13]
 
 
 [1]: https://github.com/rg3915/django-vuejs-01-vue-inner-django
