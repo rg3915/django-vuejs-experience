@@ -29,7 +29,7 @@ Inclui [vue][6], [axios][7] e [vue-routers][8].
 ![django-vue03.png](img/django-vue03.png)
 
 
-# [django-vuejs-04-drf-vuejs][4]
+# [django-rest-framework-vuejs][4]
 
 Projeto feito com [Django Rest Framework][9] e [VueJS][6].
 
@@ -45,7 +45,7 @@ Este projeto é baseado em:
 * [django-vuex-coreui-free-vue-admin-template][12]
 
 
-Links:
+### Links:
 
 [Django][5]
 
@@ -63,7 +63,7 @@ Links:
 [1]: https://github.com/rg3915/django-vuejs-01-vue-inner-django
 [2]: https://github.com/rg3915/django-vuejs-02-vue-cli-static
 [3]: https://github.com/rg3915/django-vuejs-03-separated
-[4]: https://github.com/rg3915/django-vuejs-04-drf-vuejs
+[4]: https://github.com/rg3915/django-rest-framework-vuejs
 [5]: https://www.djangoproject.com/
 [6]: https://vuejs.org/
 [7]: https://github.com/axios/axios
